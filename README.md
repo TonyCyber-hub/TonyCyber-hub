@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/TonyCyber-hub/TonyCyber-hub/Master/banner.png" alt="Cybersecurity Journey Banner" width="100%">
+<img src="[https://github.com/TonyCyber-hub/TonyCyber-hub/blob/Master/Banner001.png]" alt="Cybersecurity Journey Banner" width="100%">
 
 <br><br>
 
