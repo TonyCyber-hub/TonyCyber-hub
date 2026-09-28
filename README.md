@@ -1,40 +1,83 @@
 <div align="center">
 
-<img src="[https://github.com/TonyCyber-hub/TonyCyber-hub/Banner001.png]" alt="Cybersecurity Journey Banner" width="100%">
+<!-- TonyCyber Hub Banner -->
 
-<br><br>
+<img src="./banner.svg" alt="TonyCyber Hub Cybersecurity Banner" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=Welcome+to+TonyCyber-hub+%F0%9F%91%8B;Cybersecurity+Learner+%7C+Linux+%7C+Networking+%7C+SQL;Learning+%2B+Practicing+%2B+Building;Learn+%E2%80%A2+Build+%E2%80%A2+Grow+%E2%80%A2+Make+an+Impact" alt="Typing SVG">
-</a>
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=00FF88&center=true&vCenter=true&width=850&lines=Welcome+to+TonyCyber+Hub;Cybersecurity+%7C+Linux+%7C+Network+Security;SQL+%7C+Hands-on+Labs+%7C+Tech+Skills;Learn+Today...+Secure+Tomorrow." alt="Typing SVG"/>
 
 </div>
 
----
+👋 Welcome to TonyCyber Hub
 
-## 🛡️ About Me
+TonyCyber Hub is my personal cybersecurity and technology learning space, where I document practical learning, hands-on labs, projects, and technical growth.
 
-Hello! I'm **Emmanuel Anthony**, a cybersecurity learner documenting my journey through practical labs, projects, and continuous learning.
+🧠 What I'm Learning
 
-I'm building my skills around **cybersecurity, Linux, networking, databases, security monitoring, and defensive tools**.
+Area
 
-> **Small steps build big achievements.**
+Focus
 
----
+🛡️ Cybersecurity
 
-## 🔐 Current Focus
+Security fundamentals, monitoring, defensive security
 
-```text
-Cybersecurity
-    ↓
-Network Security
-    ↓
-Linux
-    ↓
-SQL / MariaDB
-    ↓
-Security Monitoring
-    ↓
-Suricata / IDS
-    ↓
-Git & GitHub
+🐧 Linux
+
+Command line, system administration, security labs
+
+🌐 Network Security
+
+Networking concepts, traffic analysis, detection
+
+🗄️ SQL & Databases
+
+MariaDB, SQL queries, data analysis
+
+🧪 Hands-on Labs
+
+Practical cybersecurity exercises and experiments
+
+💻 Tech Skills
+
+Building useful real-world technical skills
+
+🚀 My Learning Philosophy
+
+Learn → Practice → Build → Secure → Grow
+
+I believe cybersecurity is best learned by combining knowledge with practical experience.
+
+🧰 Tools & Technologies
+
+Linux       SQL / MariaDB       Git & GitHub
+Networking  Suricata             Log Analysis
+Cybersecurity Labs              Virtual Machines
+
+📌 Current Focus
+
+🔐 Cybersecurity fundamentals
+
+🐧 Linux security and administration
+
+🌐 Network security
+
+🗄️ SQL and database security
+
+🚨 Network traffic detection with tools such as Suricata
+
+🧪 Practical security labs
+
+📈 The Goal
+
+Build practical cybersecurity skills, document the journey, and keep growing.
+
+<div align="center">
+
+⭐ TonyCyber Hub
+
+Real Skills. Practical Learning. A Safer Digital Future.
+
+</div>
